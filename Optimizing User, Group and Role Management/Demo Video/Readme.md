@@ -88,7 +88,3 @@ Team Members: Kingslin Gibson E, Immanuel K, David Solomonraj
 ## 🏁 Conclusion
 This ServiceNow project successfully optimizes **user, role, and workflow management** through automation, ensuring secure access and efficient collaboration across project teams.
 
----
-
-**Developed by Team NM2025TMID01639**  
-✨ *Under the guidance of academic and ServiceNow project mentors.*
