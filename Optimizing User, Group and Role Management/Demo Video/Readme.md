@@ -19,7 +19,7 @@ Team Members: Kingslin Gibson E, Immanuel K, David Solomonraj
 ---
 ## Demo Video
 📺 **Watch the Project Demo:**  
-[Click here to view the demo video]((https://drive.google.com/file/d/1tHYbykEzZQ4FSJVf7Rf5AYlu1an0KLuZ/view?usp=drivesdk))  
+[Click here to view the demo video](https://drive.google.com/file/d/1tHYbykEzZQ4FSJVf7Rf5AYlu1an0KLuZ/view?usp=drivesdk)  
 
 ---
 
