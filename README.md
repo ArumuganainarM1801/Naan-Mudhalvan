@@ -13,7 +13,7 @@ This project focuses on designing and implementing an efficient User, Group, and
 
 -Team Leader: Arumuganainar M
 
--Team Members: Kingslin Gibson E, Immanuel K, David Solomonraj
+-Team Members: Kingslin Gibson E, Immanuel K, David Solomonraj M
 
 ---
 
