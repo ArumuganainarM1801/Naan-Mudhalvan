@@ -14,7 +14,7 @@ Team Size: 4 Members
 
 Team Leader: Arumuganainar M
 
-Team Members: Kingslin Gibson E, Immanuel K, David Solomonraj  
+Team Members: Kingslin Gibson E, Immanuel K, David Solomonraj M 
 
 ---
 ## Demo Video
